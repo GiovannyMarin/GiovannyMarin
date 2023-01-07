@@ -1,16 +1,94 @@
-### Hi there 👋
+# About Me 🧐
 
-<!--
-**GiovannyMarin/GiovannyMarin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I'm Brazilian :brazil:
+- 18 years old 👨🏻‍💻
+- I want to be a Web Developer and Graphic designer in the future 👨🏻‍🎨
+- UI / UX Developer
+- Love Games! Special love with Pokémon 💖
+- Open to new adventures 🌟
 
-Here are some ideas to get you started:
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 👨🏻‍💻 I'm studying and learning more about these languages:
+
+<div style="display:flex; ">
+<img width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+</div>
+
+<br />
+<br />
+
+# 🎨 And turning to life my imagination with these programs:
+<div style="display:flex; ">
+<img width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-plain.svg">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-plain.svg">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</div>
+
+<br />
+<br />
+
+# 🌹 My Projects
+
+🎨 - For <strong>Design Projects</strong> <br>
+👨🏻‍💻 - For <strong>Dev Projects</strong> <br>
+📌 - For <strong>More</strong>
+
+<hr>
+
+📌 <a href="https://www.behance.net/giovannymarin" target="_blank">My Behance</a> - New Posts Coming! 🚧
+<br />
+Developed by: [@GiovannyMarin](https://github.com/GiovannyMarin)
+<br />
+Behance: <a href="https://educsg.github.io/MyPortfolio/" target="_blank">here!</a>
+
+<hr>
+
+🎨 <a href="https://www.behance.net/giovannymarin" target="_blank">Incoherence - Album Cover</a> - Done! ✔️
+<br />
+Developed by: [@GiovannyMarin](https://github.com/GiovannyMarin)
+<br />
+Website: <a href="https://www.behance.net/gallery/159423373/Incohrence-Album-Cover-Design-Illustration" target="_blank">here!</a>
+<br>
+<br>
+<img width="70%" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/fca24a159423373.639e7ded9297c.gif">
+<hr>
+🎨 <a href="https://www.behance.net/giovannymarin" target="_blank">Segunda de Manhã - Album Cover</a> - Done! ✔️
+<br />
+Developed by: [@GiovannyMarin](https://github.com/GiovannyMarin)
+<br />
+Website: <a href="https://www.behance.net/gallery/153932167/Segunda-de-Manha-Album-Cover-Design-Visual-Identity">here!</a>
+<br>
+<br>
+<img width="70%" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/5e4550153932167.63993c412d4c0.png">
+
+# Contacts 📱
+
+<p>
+	<a href="mailto:giovanny466@hotmail.com">
+		<img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:giovanny466@hotmail.com">
+	</a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="https://www.linkedin.com/in/giovanny-marin-41a7ba222/">
+		<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/giovanny-marin-41a7ba222/">
+	</a>
+
