@@ -7,6 +7,8 @@
 - Love Games! Special love with Pokémon 💖
 - Open to new adventures 🌟
 
+- 🚧 In Moment Studying PHP POO and JS POO
+
 <br />
 
 # 👨🏻‍💻 I'm studying and learning more about these languages:
