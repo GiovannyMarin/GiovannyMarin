@@ -7,7 +7,7 @@
 - Love Games! Special love with Pokémon 💖
 - Open to new adventures 🌟
 
-- 🚧 In Moment Studying PHP POO and JS POO
+- 🚧 In Moment Studying PHP POO and JS AJAX
 
 <br />
 
